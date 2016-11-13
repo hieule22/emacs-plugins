@@ -1,4 +1,4 @@
-;;; my-emacs-plugins --- Summary
+;;; emacs-plugins --- Summary
 
 ;;; Commentary:
 ;;; This function returns the word count in the current buffer.
